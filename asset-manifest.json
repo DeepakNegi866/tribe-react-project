@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tribe-react-project/static/css/main.402c1c69.css",
-    "main.js": "/tribe-react-project/static/js/main.5f3d7875.js",
+    "main.js": "/tribe-react-project/static/js/main.bdef2a09.js",
     "index.html": "/tribe-react-project/index.html",
     "main.402c1c69.css.map": "/tribe-react-project/static/css/main.402c1c69.css.map",
-    "main.5f3d7875.js.map": "/tribe-react-project/static/js/main.5f3d7875.js.map"
+    "main.bdef2a09.js.map": "/tribe-react-project/static/js/main.bdef2a09.js.map"
   },
   "entrypoints": [
     "static/css/main.402c1c69.css",
-    "static/js/main.5f3d7875.js"
+    "static/js/main.bdef2a09.js"
   ]
 }
