@@ -43,13 +43,14 @@ function Login() {
         e.preventDefault();
         setFormErrors(validate(info));
         setIsSubmit(true);
-        history("/card");
+        
         }
         
         useEffect(() => {
             console.log(formErrors);
             if (Object.keys(formErrors).length === 0 && isSubmit) {
               console.log(info);
+              history("/card");
             }
           });
         
